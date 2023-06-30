@@ -4,6 +4,12 @@ A quick interactive illustration of the connection between Ethereum's minumum ef
 For background info on that topic refer to [this](https://eth2book.info/capella/part2/incentives/staking/) chapter in Ben Edgington's Eth2Book and [this](https://notes.ethereum.org/@vbuterin/serenity_design_rationale#Why-32-ETH-validator-sizes) post of Vitalik.
 
 ---
+## Requirements:
+
+```
+pip install dash numpy
+```
+## Run:
 
 Run the python code locally (it's a flask application running on port 8050) to get the following interactive example:
 
